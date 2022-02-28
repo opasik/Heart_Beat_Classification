@@ -28,6 +28,6 @@ A software to run and execute a Jupyter Notebook is also required.
 ## Code
 Template code is provided in the heart_project.ipynb.
 Used database is in the "set b" folder in [Heartbeat Sounds](https://www.kaggle.com/kinguistics/heartbeat-sounds).
-I added the folder to the github repository as well (set b).[
+I added the folder to the github repository as well (set b).
 
 
