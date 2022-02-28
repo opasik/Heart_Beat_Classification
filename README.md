@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-This purpose of this project is the classification of recorded sound beats and defining heart defects: extrastole and murmur,
+The purpose of this project is the classification of recorded sound beats and defining heart defects: extrastole and murmur,
 using MFCC (Mel-frequency cepstrum) and PCA (Principal Component Analysis).
  	
 ## Technologies
